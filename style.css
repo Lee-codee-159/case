@@ -1,43 +1,33 @@
-  .heading
-  {
+.button{
+    font-size: 32px;
     width: 100%;
     margin: 0px;
-    box-shadow:5px 5px 5px grey;
-  }
-  .heading_div
-  {
-    background: white ; 
-    border-radius: 20px; 
-    color: black;
-    box-shadow:5px 5px 5px grey;
-    align-content: center;
-    align-items: center;
-  }
-  .heading_div2
-  {
-    font-size: 18px ;
-    text-align: center;
-    align-content: center;
-    align-items: center;
-  }
-  .result_para_tag
-  {
-    box-shadow:5px 5px 5px grey;
+    box-shadow: 7px 35px 20px royalblue;
+}
+.div1{
+    float: none;
+    background-color: brown;
+    padding: 12px;
+    border-radius: 17px;
+    color: aqua;
+    box-shadow: 7px 35px 20px royalblue;
+}
+.div2{
     font-size: 20px;
-  }
-  .copy_right_footer{
-    position: fixed;
-    color: white;
-    bottom: 0;
-    width: 100%;
-    background-color: grey;
-    line-height: 3;
-    text-align: center;
-  }
-  canvas{
-    border: 5px solid white;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
-    margin-top: 150px;
-  }
- 
+}
+.b{
+    height: 60%;
+    width: 60%;
+}
+.s{
+    height: 65%;
+    width: 65%;
+}
+.h{
+    height: 90%;
+    width: 40%;
+}
+.t{
+    height: 60%;
+    width: 60%;
+}
